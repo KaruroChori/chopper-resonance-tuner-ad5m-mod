@@ -1,5 +1,5 @@
 Specific changes have been made to make it compatible with the klipper environment from [here](https://github.com/xblax/flashforge_ad5m_klipper_mod/).  
-Don't follow the original guide, as they would not work.
+Don't follow the original guide, as it would not work.
 
 Clone in `/root` and change folder name to `chopper-resonance-tuner`
 Don't use the install script, follow the manual process:
