@@ -15,7 +15,7 @@
 
 import os
 #################################################################################################################
-RESULTS_FOLDER = os.path.expanduser('~/printer_data/config/adxl_results/chopper_magnitude')
+RESULTS_FOLDER = os.path.expanduser('/root/printer_data/config/adxl_results/chopper_magnitude')
 DATA_FOLDER = '/tmp'
 #################################################################################################################
 
